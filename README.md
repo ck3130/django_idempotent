@@ -1,1 +1,1 @@
-# django_idempotent
+The code in this repo is what I created to help my Django post requests idempotent. You can read more about the problem I tried to solve and my process to arrive at this code here: https://dev.to/ck3130/idempotence-and-post-requests-in-django-2bbf.
